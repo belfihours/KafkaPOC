@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "18K8ojf25KQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simor\\Desktop\\Dev\\KafkaPOC\\Consumer\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simor\\.nuget\\packages\\confluent.kafka\\2.10.1\\confluent.kafka.2.10.1.nupkg.sha512",
+    "C:\\Users\\simor\\.nuget\\packages\\librdkafka.redist\\2.10.1\\librdkafka.redist.2.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
